@@ -2,7 +2,7 @@
 
 **Drivers of House Prices: The Role of Location, Land, and Construction Costs**
 
-Research Seminar in Real Estate Finance — University of St. Gallen (HSG), Spring 2026  
+Research Seminar in Real Estate Finance - University of St. Gallen (HSG), Spring 2026  
 Supervisor: Dr. Roland Füss
 
 ## Research Question
@@ -14,8 +14,8 @@ Supervisor: Dr. Roland Füss
 We estimate a two-way fixed effects panel model (metro + time FE) on 187 U.S. metropolitan areas from January 2001 to January 2026. Because the Wharton Residential Land Use Regulatory Index (WRLURI) is time-invariant and absorbed by metro fixed effects, identification comes from interacting WRLURI with time-varying macroeconomic variables (mortgage rates, construction costs, unemployment). All regressors are lagged six months. Standard errors are clustered at the metro level.
 
 **Three empirical layers:**
-1. Cross-sectional OLS — regulation and average house price growth
-2. Panel two-way FE with interaction terms — differential cyclical sensitivity
+1. Cross-sectional OLS, regulation and average house price growth
+2. Panel two-way FE with interaction terms, differential cyclical sensitivity
 3. Pre/post-2020 structural break analysis
 
 ## Data Sources
